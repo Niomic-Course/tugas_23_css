@@ -1,0 +1,21 @@
+table tr {
+    border-top: 20px solid #333a40;
+    border-bottom: 20px solid #333a40;
+}
+
+.judul {
+    background-color: #18a2b8;
+}
+
+.satu {
+    background-color: #29a745;
+}
+
+.dua {
+    background-color: #ffc124;
+}
+
+.tiga {
+    background-color: #dc3545;
+}
+
